@@ -1,5 +1,6 @@
 # Sorting and Counting
-The following are some exercises in sorting and counting algorithms
+The following are some exercises in sorting and counting algorithms.  You should use
+Python dictionaries to solve the problems.
 
 
 ## Crayonnibalsim
