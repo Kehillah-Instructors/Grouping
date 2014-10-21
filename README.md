@@ -3,7 +3,7 @@ The following are some exercises in sorting and counting algorithms.  You should
 Python dictionaries to solve the problems.
 
 
-## Crayonnibalsim
+## Crayonnibalism
 The local kindergarten has a crayonnibal on their hands.  Investigators are
 trying to understand more about the suspect - specifically their crayon
 preference.  The file `crayons` contains a list of all of the crayons the
