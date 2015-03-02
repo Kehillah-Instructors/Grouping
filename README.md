@@ -28,7 +28,12 @@ should contain no repetitions.  You may wish to look into Python
 way to avoid repetition when sorting.
 
 Also note that you will have to do some text-processing to remove punctuation,
-quotes, etc.  One strategy is to use `<str>.lower()` to make all of your words lower-case.
+quotes, etc.  One strategy you should consider is to use `lower()` method for
+strings to make all of your words lower-case to simplify comparison.
 
-Finally, write an algorithm that finds the last question of the text, and another that finds the first question.  If you want more, see if you can write an algorithm that pairs questions and answers from the text.  These final exercises scratch the surface of what is known as [natural language processing](http://en.wikipedia.org/wiki/Natural_language_processing) in computer science.
+Finally, write a program that finds the last question of the text, and another that finds
+the first question.  If you want more, see if you can write an algorithm that pairs questions
+and answers from the text.  These final exercises scratch the surface of what is known as
+[natural language processing](http://en.wikipedia.org/wiki/Natural_language_processing) in
+computer science.
 
