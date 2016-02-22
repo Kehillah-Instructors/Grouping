@@ -1,6 +1,6 @@
-# Sorting and Counting
-The following are some exercises in sorting and counting algorithms.  You should use
-Python dictionaries to solve the problems.
+# Grouping and Counting
+The following are some exercises using different accumulating algorithms.  You should use
+Python dictionaries to solve the exercises.
 
 
 ## Crayonnibalism
